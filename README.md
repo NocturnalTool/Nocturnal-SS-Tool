@@ -20,4 +20,4 @@ The Program has an Automatic Updating System, so you should not worry about goin
 
 ### Support
 For more information about the development of our tool you can visit our Discord. Where you can find all the data, news and versions of Nocturnal.
-https://discord.gg/FzjVe2U
+https://discord.gg/jFdHBz2hqw
